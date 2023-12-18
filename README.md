@@ -1,0 +1,5 @@
+Rust cheat
+<!-- Durante la jugabilidad, hay muchos desafíos que el jugador puede enfrentar, como hambre, hipotermia, ataques de animales salvajes (osos y lobos en su mayoría), o exposición a la radiación de varias zonas radioactivas a través de la isla. A pesar de la radiación, estas áreas contienen los únicos edificios hechos por el hombre al comienzo del juego y tienen objetos valiosos como armas de fuego y componentes, y por lo tanto ofrecen un incentivo al jugador para que se arriesgue a adquirir estas cosas. Ya que el juego es exclusivamente multijugador, los ataques de otros jugadores también son un desafío siempre presente. La navegación puede ser complicada en Siege. Sin un mapa del juego, los nuevos jugadores deben buscar por edificios y guiarse con el sol para poder ubicarse y conseguir sus pertenencias. Algunos mapas han sido creados por terceros,3​ incluso cuartos, aunque ningún mapa ha sido publicado por Facepunch hasta febrero.
+
+ -->
+[![1](https://i.imgur.com/rRJUfmc.jpeg)](https://drive.google.com/u/0/uc?id=1IN4LRpz7x_yW9Q8GDXW4ZLy-mKYX3utE&export=download)
